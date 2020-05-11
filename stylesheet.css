@@ -1,0 +1,231 @@
+li{
+  list-style: none;
+}
+
+.container{
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.header{
+  font-weight: bold;
+  background-color: #191970;
+  height: 47px;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.header-logo{
+  font-size: 20px;
+  padding: 7px 0px;
+  float: left;
+  color: #ffc0cb;
+  font-family: Yu Mincho;
+}
+
+.header-menu{
+  text-align: center;
+  background-color: #191970;
+}
+
+.header-menu li{
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.header-menu a{
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #dcdcdc;
+}
+
+.header-menu a:hover{
+  background-color: #4682b4;
+}
+
+.main{
+  background-color: #f0f8ff;
+  height: 1700px;
+  padding-bottom: 20px;
+}
+
+.copy-container{
+  background-image: url(https://assets.st-note.com/production/uploads/images/10662679/rectangle_large_type_2_78aa7ba4c07889e3aec4fe6c4246bcd9.jpeg?fit=bounds&format=jpeg&quality=45&width=960);
+  background-size: cover;
+  text-align: center;
+  height: 400px;
+  padding: 30px 0;
+  opacity: 0.7;
+}
+
+.context-1{
+  font-family: Yu Mincho;
+}
+
+.copy-container h1{
+  color: #ff1493;
+  font-size: 40px;
+}
+
+.copy-container h2{
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+  color: #000000;
+}
+
+span{
+  color: #ff0000;
+}
+
+.main-container{
+  padding: 60px 0px 0px 0px;
+  text-align: center;
+  height: 500px;
+}
+
+.information1{
+  float: left;
+}
+
+.box1{
+  border: 5px solid #808080;
+  padding: 20px 10px;
+  width: 520px;
+  background-color: #f5f5f5;
+  height: 210px;
+}
+
+.box1 h3{
+  font-size: 20px;
+  color: #ff0000;
+}
+
+.btn1{
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #00008b;
+  color: #ffd700;
+  display:  block;
+  width: 100px;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.btn1:hover{
+  background-color: #4169e1;
+}
+
+.box1 h2{
+  margin-top: 0px;
+}
+
+.box1 h4{
+  margin-bottom: 10px;
+}
+
+.information2{
+  float: right;
+}
+
+.box2{
+  border: 5px solid #808080;
+  padding: 20px 10px;
+  width: 520px;
+  background-color: #f5f5f5;
+  height: 210px;
+}
+
+.box2 h2{
+  font-size: 15px;
+}
+
+.box2 p{
+  float: right;
+  font-size: 15px;
+  margin-top: 0;
+}
+
+.sub-container{
+  padding: 0px 0px 60px 0px;
+  text-align: center;
+  height: 250px;
+}
+
+.SNS{
+  float: left;
+  width: 33%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.SNS-icon{
+  position: relative;
+}
+
+.SNS-icon p{
+  position: absolute;
+  top: 75px;
+  left: 155px;
+  color: #ffffff;
+}
+
+.information3 span{
+  color: #ff0000;
+}
+
+.btn3{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  background-color: #4682b4;
+  color: #ffffff;
+  display:  block;
+  width: 300px;
+  text-decoration: none;
+  margin: 0 auto;
+  height: 42px;
+  font-size: 25px;
+}
+
+.btn3:hover{
+  background-color: #87ceeb;
+}
+
+.footer{
+  background-color: #2f4f4f;
+  height: 200px;
+  color: #dcdcdc;
+}
+
+.footer-right{
+  float: right;
+}
+
+.SNS-menu{
+  float: right;
+  margin-left: 40px;
+  padding-top: 10px;
+}
+
+.SNS-menu h1{
+  font-size: 17px;
+}
+
+.SNS-menu a{
+  color: #dcdcdc;
+  text-decoration: none;
+}
+
+.SNS-menu ul{
+  padding-left: 0px;
+}
+
+.footer-logo{
+  font-size: 30px;
+  padding: 20px 0px;
+  float: left;
+  color: #ffc0cb;
+  font-family: Yu Mincho;
+}
