@@ -217,6 +217,10 @@ span{
   text-decoration: none;
 }
 
+.SNS-menu a:hover{
+  text-decoration: underline;
+}
+
 .SNS-menu ul{
   padding-left: 0px;
 }
